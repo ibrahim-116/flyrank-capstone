@@ -1,4 +1,4 @@
-We are creating a react, tailwindCSS, shadCN e-commerce website frontend with a separate admin panel.
+We are creating a react, tailwindCSS, shadCN e-commerce website frontend with a separate admin panel with jsx and not tsx
 
 The design system for the e-commerce website is as following:
 Main Font: Google Sans
@@ -11,3 +11,10 @@ Danger	#DC3545
 Brand	#C5A059
 Surface	#FFFFFF
 Admin BG	#F8F9FA
+
+Conventions:
+Place all components in a separate "Components" folder
+Use dummy data where needed
+ 
+Don'ts:
+We will not use Typescript in this project
